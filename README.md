@@ -26,9 +26,9 @@ From VBA-powered automation to full-scale digital strategy, I help businesses sa
 ## 🎯 My Mission
 To make work **faster, smarter, and calmer** through auto
 
-## 🎯 My Contact
-Keep in touch with me: jerrisonchai@gmail.com
-You can also invite me for freelance opportunities directly on Upwork: https://www.upwork.com/freelancers/automatewithjerrison
+## 🎯 Contact Me
+- Keep in touch with me: jerrisonchai@gmail.com
+- You can also invite me for freelance opportunities directly on Upwork: https://www.upwork.com/freelancers/automatewithjerrison
 <!---
 Jerrisonchai/Jerrisonchai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
